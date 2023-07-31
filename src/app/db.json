@@ -1,0 +1,119 @@
+{
+  "seller": [
+    {
+      "name": "test",
+      "password": "test123",
+      "email": "test@mail.com",
+      "id": 1
+    },
+    {
+      "name": "test",
+      "password": "test123",
+      "email": "test@mail.com",
+      "id": 2
+    },
+    {
+      "name": "abc",
+      "password": "abc123",
+      "email": "abc@mail.com",
+      "id": 3
+    },
+    {
+      "name": "ats",
+      "password": "ats123",
+      "email": "ats@mail.com",
+      "id": 4
+    },
+    {
+      "name": "admin",
+      "password": "admin123",
+      "email": "admin@mail.com",
+      "id": 5
+    },
+    {
+      "name": "admin",
+      "password": "admin123",
+      "email": "admin@mail.com",
+      "id": 6
+    },
+    {
+      "name": "admin",
+      "password": "admin123",
+      "email": "admin@mail.com",
+      "id": 7
+    },
+    {
+      "name": "admin",
+      "password": "admin123",
+      "email": "admin@mail.com",
+      "id": 8
+    },
+    {
+      "name": "admin",
+      "password": "admin123",
+      "email": "admin@mail.com",
+      "id": 9
+    },
+    {
+      "name": "admin",
+      "password": "admin123",
+      "email": "admin@123",
+      "id": 10
+    },
+    {
+      "name": "admin",
+      "password": "admin123",
+      "email": "admin@mail.com",
+      "id": 11
+    },
+    {
+      "name": "admin",
+      "password": "admin123",
+      "email": "admin@123",
+      "id": 12
+    },
+    {
+      "name": "admin",
+      "password": "admin123",
+      "email": "admin123",
+      "id": 13
+    },
+    {
+      "name": "admin",
+      "password": "admin123",
+      "email": "admin@mail.com",
+      "id": 14
+    },
+    {
+      "name": "asd",
+      "password": "asd123",
+      "email": "asd@mail.com",
+      "id": 15
+    },
+    {
+      "name": "asd",
+      "password": "asd123",
+      "email": "asd@mail.com",
+      "id": 16
+    },
+    {
+      "name": "asd",
+      "password": "asd123",
+      "email": "asd@123",
+      "id": 17
+    },
+    {
+      "name": "zxc",
+      "password": "zxc@123",
+      "email": "zxc@mail.com",
+      "id": 18
+    },
+    {
+      "name": "admin",
+      "password": "admin123",
+      "email": "admin@mail.com",
+      "id": 19
+    }
+  ],
+  "admin": []
+}
